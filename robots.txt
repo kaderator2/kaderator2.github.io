@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaderator2.github.io//sitemap.xml
+Sitemap: https://kaderator2.github.io/sitemap.xml
