@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kaderator2 
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - kaderator2/CSC-337-Othello 
+  - kaderator2/UAZEsports-OBS-Caster-Tool 
+  - kaderator2/SubSimDiscordbot 
+  - kaderator2/UAZ-Esports-RL-Overlay  
+  - kaderator2/Lect-Trimmer 
+  - kaderator2/GPTacoDiscordFriend 
