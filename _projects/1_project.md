@@ -8,9 +8,23 @@ category: work
 related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+#### Languages used 
+<ul>
+    <li>Java</li>
+</ul>
+
+#### Libraries/Tools Used 
+<ul>
+    <li>JavaFX</li>
+    <li>Scene Builder</li>
+</ul>
+
+This project aimed to create an easy way to store and update frequently used 
+data that is displayed on stream by using JavaFX and Scene Builder to
+create a user-friendly GUI and interfaces with OBS through txt files that are
+updated depending on user input. As a result, this tool has become an integral
+part of almost every UArizona Esports broadcast.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
