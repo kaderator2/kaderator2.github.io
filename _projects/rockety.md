@@ -2,7 +2,7 @@
 layout: page
 title: Rockety
 description: Rocket League tournament management and broadcast system
-img: 
+img:
 importance: 1
 category: work
 ---

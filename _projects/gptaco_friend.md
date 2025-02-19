@@ -1,8 +1,8 @@
 ---
 layout: page
 title: GPTacoDiscordFriend
-description: AI-powered taco-recommending Discord bot
-img: 
+description: AI-powered walking and talking Discord buddy (sans the walking)
+img:
 importance: 4
 category: fun
 ---
