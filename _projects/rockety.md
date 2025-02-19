@@ -2,7 +2,7 @@
 layout: page
 title: Rockety
 description: A sophisticated web application for analyzing Rocket League replay files, developed at the University of Arizona. This tool helps players and teams improve their gameplay through detailed statistical analysis and visualization of match data.
-img: assets/img/rocket/analysispage.png
+img: assets/img/rockety/analysispage.png
 importance: 1
 category: work
 related_publications:
@@ -31,7 +31,7 @@ Rockety is a web-based application that tackles a common challenge in competitiv
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rocket/welcomepage.png" title="Welcome Page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rockety/welcomepage.png" title="Welcome Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ The project leverages a carefully selected tech stack outlined in our initial de
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rocket/analysispage.png" title="Analysis Page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rockety/analysispage.png" title="Analysis Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -51,7 +51,7 @@ The project leverages a carefully selected tech stack outlined in our initial de
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rocket/accountpage.png" title="Account Management" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rockety/accountpage.png" title="Account Management" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -60,7 +60,7 @@ The project leverages a carefully selected tech stack outlined in our initial de
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rocket/replayupload.png" title="Replay Upload" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rockety/replayupload.png" title="Replay Upload" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

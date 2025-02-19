@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_projects/rockety.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "rockety"
@@ -170,6 +170,7 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
+    "_projects/rockety.md~",
     "_projects/lect_trimmer.md",
     "_projects/gptaco_friend.md",
     "_projects/ccbacktester.md",
