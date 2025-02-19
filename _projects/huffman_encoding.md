@@ -3,7 +3,7 @@ layout: page
 title: CSC-345 Huffman Encoding
 description: Implementation of Huffman encoding algorithm for data compression
 img: 
-importance: 1
+importance: 2
 category: university
 ---
 

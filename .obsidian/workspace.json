@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/gptaco_friend.md",
+                "file": "_projects/huffman_encoding.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "gptaco_friend"
+              "title": "huffman_encoding"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/gptaco_friend.md",
+                "file": "_projects/huffman_encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gptaco_friend"
+              "title": "Backlinks for huffman_encoding"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/gptaco_friend.md",
+                "file": "_projects/huffman_encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gptaco_friend"
+              "title": "Outgoing links from huffman_encoding"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/gptaco_friend.md",
+                "file": "_projects/huffman_encoding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gptaco_friend"
+              "title": "Outline of huffman_encoding"
             }
           }
         ]
@@ -170,15 +170,15 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
+    "_projects/othello.md",
+    "_projects/gptaco_friend.md",
     "_projects/ccbacktester.md",
     "_projects/UAZCastertool.md",
     "_projects/uaz_esports_rl_overlay.md",
     "_projects/subsim_bot.md",
     "_projects/rockety.md",
-    "_projects/othello.md",
     "_projects/huffman_encoding.md",
     "_projects/lect_trimmer.md",
-    "_projects/gptaco_friend.md",
     "assets/img/othello/match.png",
     "assets/img/othello/howto.png",
     "assets/img/othello/profile.png",

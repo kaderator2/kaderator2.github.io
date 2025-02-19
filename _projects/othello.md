@@ -3,7 +3,7 @@ layout: page
 title: CSC-337 Othello
 description: Web-based implementation of the classic Othello board game
 img: assets/img/othello/welcome.png
-importance: 2
+importance: 1
 category: university
 ---
 
