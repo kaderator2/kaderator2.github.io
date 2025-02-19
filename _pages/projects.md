@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some cool projects I've worked on so far as an undergrad.
 nav: true
 nav_order: 2
-display_categories: [university, fun]
+display_categories: [work, university, fun]
 horizontal: false
 ---
 
