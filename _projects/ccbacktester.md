@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CCBacktester
+title: CC Backtester
 description: FOREX trading strategy backtesting
 img: https://imgur.com/PtnDsFF.gif
 importance: 2

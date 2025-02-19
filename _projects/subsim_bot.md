@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SubSimDiscordBot
+title: SubSim Discord Bot
 description: A simple Python 3 script to run GPT2 models over discord in the form of a interactive chatbot
 img: 
 importance: 3

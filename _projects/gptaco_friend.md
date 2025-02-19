@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GP(T)aco-Discord-Friend
+title: GP(T)aco Discord Friend
 description: AI-powered walking and talking Discord buddy (sans the walking)
 img:
 importance: 4

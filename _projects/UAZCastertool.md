@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OBS-Caster-Tool
+title: OBS Caster Tool
 description: A JavaFX based application for managing caster names within a database, hot swapping which names are displayed on stream, and updating game scores
 img: assets/img/UACasterTool/esport1.jpg
 importance: 2

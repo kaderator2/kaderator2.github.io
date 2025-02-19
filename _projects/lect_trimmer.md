@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lect-Trimmer
+title: Lect Trimmer
 description: Automated tool for processing and trimming lecture recordings
 img: 
 importance: 1

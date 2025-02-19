@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OBS-RL-Overlay
+title: OBS RL Overlay
 description: Custom broadcast overlay system for University of Arizona Esports
 img: assets/img/rl-overlay/overlay.png
 importance: 3
