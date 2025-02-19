@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Rockety
-description: A sophisticated web application for analyzing Rocket League replay files, developed at the University of Arizona. This tool helps players and teams improve their gameplay through detailed statistical analysis and visualization of match data.
-img: assets/img/rockety/analysispage.png
+description: A sophisticated web application for analyzing Rocket League replay files, developed at the University of Arizona. This tool helps players and teams improve their gameplay through detailed statistical analysis and visualization of match data
+img: assets/img/rockety/welcomepage.png
 importance: 1
 category: work
 related_publications:
 ---
+
+- [GitHub Repository](https://github.com/kaderator2/Rockety)
 
 ### Technologies Used
 
@@ -45,10 +47,9 @@ The solution:
 
 ### Preparation
 
-At this point in my escapades of web development, I had a decent knowledge of JavaScript and I also had a decent knowledge of how much I didn't like JavaScript. While I don't find it impossible to work with, I think its lack of a proper type system can lead to some really confusing issues in the development process. *However*, I did really like how fast development can be when using JavaScript. Since I had full control over this project, I wanted to make sure that I found the right tools for the job. I began searching around for Alternatives that I could use to get the best of both worlds. 
+At this point in my escapades of web development, I had a decent knowledge of JavaScript and I also had a decent knowledge of how much I *didn't* like JavaScript. While I don't find it impossible to work with, I think its lack of a proper type system can lead to some really confusing issues in the development process. *However*, I did really like how fast development can be when using JavaScript. Since I had full control over this project, I wanted to make sure that I found the right tools for the job. I began searching around for Alternatives that I could use to get the best of both worlds. 
 
-After a decent amount of research I landed on **TypeScript**. There was a little bit of a learning curve initially but I quickly got the hang of it by doing some smaller, more basic projects to start. Armed with my web development Knowledge from my past few projects leading up to this point, I landed on a tech stack of - **TypeScript** and **React** to power the frontend, **Node.js**\/**Express** to handle the backend, and **MongoDB** to allow me to store complex game data thanks to its flexible schema.
-
+After a decent amount of research I landed on **TypeScript**. There was a little bit of a learning curve initially but I quickly got the hang of it by doing some smaller, more basic projects to start. Armed with my web development Knowledge from my past few projects leading up to this point, I landed on a tech stack of - **TypeScript** and **React** to power the frontend, **Node.js**/**Express** to handle the backend, and **MongoDB** to allow me to store complex game data thanks to its flexible schema.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

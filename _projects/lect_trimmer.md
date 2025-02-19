@@ -7,4 +7,6 @@ importance: 1
 category: fun
 ---
 
-A Python-based tool that automatically processes lecture recordings to remove silence and optimize content delivery.
+- [GitHub Repository](https://github.com/kaderator2/Lect-Trimmer)
+
+A simple Python based lecture trimmer that uses ffmpeg and auto-editor to cut out gaps of silence and speed up lectures, increasing student productivity by 99.99%!

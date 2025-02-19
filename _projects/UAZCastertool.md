@@ -1,9 +1,9 @@
 ---
 layout: page
 title: OBS-Caster-Tool
-description: A JavaFX based application for managing caster names within a database, hot swapping which names are displayed on stream, and updating game scores.
+description: A JavaFX based application for managing caster names within a database, hot swapping which names are displayed on stream, and updating game scores
 img: assets/img/UACasterTool/esport1.jpg
-importance: 1
+importance: 2
 category: work
 related_publications:
 ---
@@ -39,7 +39,7 @@ part of almost every UArizona Esports broadcast.
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    .
 </div>
 
 <div class="row">
@@ -48,12 +48,9 @@ part of almost every UArizona Esports broadcast.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    .
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,5 +58,5 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    .
 </div>

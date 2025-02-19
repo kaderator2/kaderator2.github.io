@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/rockety.md",
+                "file": "_projects/othello.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "rockety"
+              "title": "othello"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/rockety.md",
+                "file": "_projects/othello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rockety"
+              "title": "Backlinks for othello"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/rockety.md",
+                "file": "_projects/othello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from rockety"
+              "title": "Outgoing links from othello"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/rockety.md",
+                "file": "_projects/othello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rockety"
+              "title": "Outline of othello"
             }
           }
         ]
@@ -170,9 +170,28 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
-    "_projects/rockety.md~",
+    "assets/img/othello/match.png",
+    "assets/img/othello/howto.png",
+    "_projects/rockety.md",
+    "_projects/othello.md",
+    "_projects/uaz_esports_rl_overlay.md",
+    "_projects/subsim_bot.md",
     "_projects/lect_trimmer.md",
+    "assets/img/othello/profile.png",
+    "assets/img/othello/welcome.png",
+    "assets/img/othello/leaderboard.png",
+    "assets/img/othello/CSC 337 Othello 2-59 screenshot.png",
+    "assets/img/othello/CSC 337 Othello 4-29 screenshot.png",
+    "assets/img/othello/CSC 337 Othello 4-34 screenshot.png",
+    "assets/img/othello/login.png",
+    "assets/img/othello",
+    "assets/img/Untitled Folder",
+    "_projects/UAZCastertool.md",
+    "_projects/huffman_encoding.md",
+    "assets/img/rl-overlay/overlay.png",
+    "assets/img/rl-overlay",
     "_projects/gptaco_friend.md",
+    "_projects/rockety.md~",
     "_projects/ccbacktester.md",
     "_posts/2024-02-19-homelab-setup.md",
     "_posts/2024-02-19-arch-linux-daily-driver.md"

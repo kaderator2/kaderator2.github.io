@@ -7,4 +7,6 @@ importance: 4
 category: fun
 ---
 
-A Discord bot powered by GPT that provides personalized taco recommendations and recipes to users.
+- [GitHub Repository](https://github.com/kaderator2/GPTacoDiscordFriend)
+
+W.I.P. talking discord buddy! Uses any finetuned (or not) GPT-2 model along with a custom Tacotron2 + Waveglow model to create a custom discord bot that actively participates in voice chats.
