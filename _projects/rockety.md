@@ -25,9 +25,14 @@ related_publications:
 - Docker
 - JWT Authentication
 
-Before diving into development, I collaborated with my supervisor at the University of Arizona's Department of Esports to create a comprehensive design document. This planning phase was crucial in defining the project's scope and technical requirements, ensuring it would meet the department's needs for player development and statistical analysis.
+### Background
 
-Rockety is a web-based application that tackles a common challenge in competitive Rocket League: making sense of replay data. While the game provides replay files, extracting meaningful insights from them has always been a challenge for teams and players looking to improve their performance. The project serves multiple purposes: enhancing the Rocket League community's engagement through detailed replay analysis, providing essential statistics for the university's esports program, and helping casters stay updated with player performance data.
+During the final months of my time at the University of Arizona's Esports Department, I realized I had to make the most of the time I had left. I had about 6 months until the program fully shut down (due to unfortunate budget cuts :/) and at the time I had no idea of the program's unfortunate fate. All of the (three) other members of the department knew that the program was in a state of limbo. Not knowing what was going to happen next, I started thinking of ideas of projects I could do to make the time count. 
+
+My boss and I had always been in talks since I joined the team about Leveraging my programming skills to create a unique Esports stats program for our players to use. This idea came up many times but we never quite had the time of the facilities to execute on it. Since the program was in a state of limbo, we had to put a pause on our long term project ideas; leading me to have to brainstorm with my boss and find an idea that would allow me to hone my skills as a developer and contribute to the programs success.
+
+The solution:
+**Rockety!**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,7 +43,12 @@ Rockety is a web-based application that tackles a common challenge in competitiv
     The welcoming landing page introduces users to Rockety's capabilities.
 </div>
 
-The project leverages a carefully selected tech stack outlined in our initial design phase: TypeScript and React power the frontend, while Node.js/Express handle the backend operations. MongoDB was chosen for its flexible schema, perfect for storing the variable and complex data from game replays. One of the most interesting technical challenges was parsing the binary replay files efficiently while maintaining a smooth user experience. The application implements secure user authentication with OAuth 2.0 and JWT, robust file upload handling, and real-time data processing through message brokers like RabbitMQ or Redis for optimal performance.
+### Preparation
+
+At this point in my escapades of web development, I had a decent knowledge of JavaScript and I also had a decent knowledge of how much I didn't like JavaScript. While I don't find it impossible to work with, I think its lack of a proper type system can lead to some really confusing issues in the development process. *However*, I did really like how fast development can be when using JavaScript. Since I had full control over this project, I wanted to make sure that I found the right tools for the job. I began searching around for Alternatives that I could use to get the best of both worlds. 
+
+After a decent amount of research I landed on **TypeScript**. There was a little bit of a learning curve initially but I quickly got the hang of it by doing some smaller, more basic projects to start. Armed with my web development Knowledge from my past few projects leading up to this point, I landed on a tech stack of - **TypeScript** and **React** to power the frontend, **Node.js**\/**Express** to handle the backend, and **MongoDB** to allow me to store complex game data thanks to its flexible schema.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -48,6 +58,9 @@ The project leverages a carefully selected tech stack outlined in our initial de
 <div class="caption">
     The analysis page provides detailed insights into game statistics and player performance.
 </div>
+
+### Development & Challenges
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -80,5 +93,4 @@ Fun fact you could add: "The project started as a simple replay parser but evolv
 
 ### Links
 
-- [GitHub Repository](link-to-your-repo)
-- [Live Demo](link-to-demo)
+- [GitHub Repository](https://github.com/kaderator2/Rockety)
