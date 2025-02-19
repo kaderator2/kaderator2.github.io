@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/othello.md",
+                "file": "_projects/UAZCastertool.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "othello"
+              "title": "UAZCastertool"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
+    "_projects/uaz_esports_rl_overlay.md",
+    "_projects/othello.md",
     "_projects/rockety.md",
     "_projects/lect_trimmer.md",
     "_projects/ccbacktester.md",
@@ -177,8 +179,6 @@
     "_projects/huffman_encoding.md",
     "_projects/UAZCastertool.md",
     "_projects/subsim_bot.md",
-    "_projects/uaz_esports_rl_overlay.md",
-    "_projects/othello.md",
     "assets/img/othello/match.png",
     "assets/img/othello/howto.png",
     "assets/img/othello/profile.png",
