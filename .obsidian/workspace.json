@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/ccbacktester.md",
+                "file": "_projects/gptaco_friend.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ccbacktester"
+              "title": "gptaco_friend"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/ccbacktester.md",
+                "file": "_projects/gptaco_friend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ccbacktester"
+              "title": "Backlinks for gptaco_friend"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/ccbacktester.md",
+                "file": "_projects/gptaco_friend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ccbacktester"
+              "title": "Outgoing links from gptaco_friend"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/ccbacktester.md",
+                "file": "_projects/gptaco_friend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ccbacktester"
+              "title": "Outline of gptaco_friend"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
+    "_projects/ccbacktester.md",
     "_projects/UAZCastertool.md",
     "_projects/uaz_esports_rl_overlay.md",
     "_projects/subsim_bot.md",
@@ -178,7 +179,6 @@
     "_projects/huffman_encoding.md",
     "_projects/lect_trimmer.md",
     "_projects/gptaco_friend.md",
-    "_projects/ccbacktester.md",
     "assets/img/othello/match.png",
     "assets/img/othello/howto.png",
     "assets/img/othello/profile.png",
