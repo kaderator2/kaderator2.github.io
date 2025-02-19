@@ -8,6 +8,8 @@ category: work
 related_publications:
 ---
 
+- [GitHub Repository](https://github.com/kaderator2/UAZEsports-OBS-Caster-Tool)
+
 #### Languages used
 
 <ul>
@@ -50,7 +52,6 @@ part of almost every UArizona Esports broadcast.
 <div class="caption">
     .
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

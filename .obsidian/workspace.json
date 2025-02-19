@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/othello.md",
+                "file": "_projects/ccbacktester.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "othello"
+              "title": "ccbacktester"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/othello.md",
+                "file": "_projects/ccbacktester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for othello"
+              "title": "Backlinks for ccbacktester"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/othello.md",
+                "file": "_projects/ccbacktester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from othello"
+              "title": "Outgoing links from ccbacktester"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/othello.md",
+                "file": "_projects/ccbacktester.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of othello"
+              "title": "Outline of ccbacktester"
             }
           }
         ]
@@ -170,13 +170,17 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
-    "assets/img/othello/match.png",
-    "assets/img/othello/howto.png",
-    "_projects/rockety.md",
-    "_projects/othello.md",
+    "_projects/UAZCastertool.md",
     "_projects/uaz_esports_rl_overlay.md",
     "_projects/subsim_bot.md",
+    "_projects/rockety.md",
+    "_projects/othello.md",
+    "_projects/huffman_encoding.md",
     "_projects/lect_trimmer.md",
+    "_projects/gptaco_friend.md",
+    "_projects/ccbacktester.md",
+    "assets/img/othello/match.png",
+    "assets/img/othello/howto.png",
     "assets/img/othello/profile.png",
     "assets/img/othello/welcome.png",
     "assets/img/othello/leaderboard.png",
@@ -186,13 +190,9 @@
     "assets/img/othello/login.png",
     "assets/img/othello",
     "assets/img/Untitled Folder",
-    "_projects/UAZCastertool.md",
-    "_projects/huffman_encoding.md",
     "assets/img/rl-overlay/overlay.png",
     "assets/img/rl-overlay",
-    "_projects/gptaco_friend.md",
     "_projects/rockety.md~",
-    "_projects/ccbacktester.md",
     "_posts/2024-02-19-homelab-setup.md",
     "_posts/2024-02-19-arch-linux-daily-driver.md"
   ]

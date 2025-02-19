@@ -61,6 +61,7 @@ After a decent amount of research I landed on **TypeScript**. There was a little
 </div>
 
 ### Development & Challenges
+Article in progress! check back later for more :)
 
 
 <div class="row">
@@ -81,17 +82,3 @@ After a decent amount of research I landed on **TypeScript**. There was a little
     The intuitive upload interface makes it easy for users to submit their replay files for analysis.
 </div>
 
-### Technical Highlights & Future Improvements
-
-- Implemented secure file upload and processing pipeline using AWS infrastructure
-- Developed custom replay file parser with Python for efficient data extraction
-- Created interactive data visualizations using Chart.js
-- Established CI/CD pipeline with GitHub Actions
-- Implemented containerization with Docker for consistent deployment
-- Designed for scalability with message broker architecture
-
-Fun fact you could add: "The project started as a simple replay parser but evolved into a full-fledged analysis platform after seeing how excited the Rocket League community was about the initial prototype!"
-
-### Links
-
-- [GitHub Repository](https://github.com/kaderator2/Rockety)
