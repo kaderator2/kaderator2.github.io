@@ -1,7 +1,9 @@
 {%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
 
+{%- assign image_exists = include.path | file_exists -%}
 <figure>
 
+  {% if image_exists %}
   <picture>
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
@@ -29,6 +31,7 @@
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
   </picture>
+  {% endif %}
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
 

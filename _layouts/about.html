@@ -17,8 +17,9 @@ layout: default
     <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
       {%- if page.profile.image %}
       {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+      {%- assign image_exists = profile_image_path | file_exists -%}
 
-      {% if page.profile.image_circular %}
+      {% if image_exists and page.profile.image_circular %}
       {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
       {% else %}
       {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
