@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/UAZCastertool.md",
+                "file": "_projects/rockety.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UAZCastertool"
+              "title": "rockety"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "2e4fd8554e90a050",
   "lastOpenFiles": [
+    "_projects/UAZCastertool.md",
     "_projects/uaz_esports_rl_overlay.md",
     "_projects/othello.md",
     "_projects/rockety.md",
@@ -177,7 +178,6 @@
     "_projects/ccbacktester.md",
     "_projects/gptaco_friend.md",
     "_projects/huffman_encoding.md",
-    "_projects/UAZCastertool.md",
     "_projects/subsim_bot.md",
     "assets/img/othello/match.png",
     "assets/img/othello/howto.png",
